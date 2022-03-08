@@ -1,4 +1,3 @@
-# BeSmart_GetRich
 A wing-to-wing python coded solution that allows user to assess potential profits from trading stock options for 3 specific companies: Google, Apple, and GE. 
 Code was written in Python3 
 
